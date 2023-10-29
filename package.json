@@ -1,7 +1,10 @@
 {
   "name": "jianghanqing.github.io",
   "version": "v1.0.0",
-  "homepage": "https://sorcererq.github.io/jianghanqing.github.io",
+  "homepage": "https://www.jianghanqing.com",
+  "dependencies": {
+    "react-scripts": "3.4.3"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
