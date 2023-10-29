@@ -3,6 +3,8 @@
   "version": "v1.0.0",
   "homepage": "https://sorcererq.github.io/jianghanqing.github.io",
   "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
