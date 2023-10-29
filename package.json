@@ -1,7 +1,7 @@
 {
   "name": "jianghanqing.github.io",
   "version": "v1.0.0",
-  "homepage": "https://www.jianghanqing.com"
+  "homepage": "https://www.jianghanqing.com",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "devDependencies": {
