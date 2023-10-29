@@ -30,7 +30,7 @@
     "sort-by": "^1.2.0",
     "style-loader": "^3.3.2",
     "web-vitals": "^1.1.0",
-    "webpack": "^4.42.0"
+    "webpack": "^4.47.0"
   },
   "scripts": {
     "dev": "webpack --mode development --watch",
