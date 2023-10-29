@@ -3,7 +3,8 @@
   "version": "v1.0.0",
   "homepage": "https://www.jianghanqing.com",
   "dependencies": {
-    "react-scripts": "^3.4.3"
+    "react": "^16.13.1",
+    "react-scripts": "3.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
